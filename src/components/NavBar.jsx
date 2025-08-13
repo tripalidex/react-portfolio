@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../assets/kevinRushLogo.png"
+import logo from "../assets/carlosQuispeLogo.png"
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa6'
 
 
